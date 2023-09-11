@@ -5,6 +5,12 @@
   "homepage": "https://learngitbranching.js.org",
   "author": "Peter Cottle <petermcottle@gmail.com>",
   "license": "MIT",
+
+
+
+
+
+
   "scripts": {
     "test": "gulp test"
   },
